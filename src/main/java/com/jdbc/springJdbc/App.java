@@ -28,6 +28,7 @@ for(Student s:fetchAll) {
 	System.out.println(s);
 }
 //System.out.println("this for insert");
+//khalidkhan
 
 /*
  * student.setId(4); student.setName("Barkat");
